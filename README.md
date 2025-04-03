@@ -1,6 +1,6 @@
 # Babatunde Abubakar Yahaya - Portfolio Website
 
-![Portfolio Preview](https://via.placeholder.com/800x400?text=Portfolio+Preview)
+![Portfolio Preview](https://hephtroncode.github.io/resume-portfolio/)
 
 A modern, responsive portfolio website showcasing my skills, projects, and professional journey as a Frontend Developer and Cloud Technology Enthusiast.
 
